@@ -1,0 +1,30 @@
+Top Down Design: How to Become a Turing Student
+
+1 Get interested in coding
+2 Begin application process
+  2.1 Answer personal questions
+  2.2 Proceed to logic questions
+    2.3 Pass logic exam
+3 Set up interview
+  3.1 Answer more personal questions
+  3.2 Choke on interview logic questions
+  3.3 Repeat from 2 in 45 days
+4 Get accepted after passing live logic interview
+5 Begin to begin for module 0
+  5.1 Receive computer via mail
+  5.2 Set up computer
+    5.1.1 Navigate to correct webpage
+    5.1.2 Watch instructional video
+    5.1.3 Follow written instructions as well as the ones given in video
+6 Begin remote classes
+  6.1 Attend twice weekly
+7 Complete homework
+8 Begin capstone
+  8.1 Attempt day 1 before the second mod 0 course
+  8.2 Start stressing
+  8.3 Feel more confident after second mod 0 course
+9 Complete remote classes
+10 Complete technical assessment
+11 Quit job
+12 Submit capstone
+13 Begin Mod 1
