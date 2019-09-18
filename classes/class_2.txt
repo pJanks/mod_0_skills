@@ -1,0 +1,13 @@
+Class: Dine In
+
+Attributes:
+1. rudeServer (boolean)
+2. nightlyTips (integer)
+3. customerSatisfaction (boolean)
+4. foodType (string)
+
+Methods:
+1. serverWasRude (yes = true)
+2. calculateNightlyTips (totalMoneyIntake - gratuityPaid)
+3. CustomerSatisfied (no = false)
+4. defineFoodType (return foodType)
