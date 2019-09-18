@@ -1,0 +1,13 @@
+Instance: McDonalds
+
+Attributes:
+1. dateEstablished: "09182000"
+2. turnoverQuarter: -4
+3. profitMade: -4000
+4. nationalChain: true
+
+Methods:
+1. 09182019 - 09182000 = 9
+2. 104 -108 = -4
+3. 6000 - 10000
+4. no
