@@ -26,5 +26,5 @@ Top Down Design: How to Become a Turing Student
 9 Complete remote classes
 10 Complete technical assessment
 11 Quit job
-12 Submit capstone
+12 Submit capstone project
 13 Begin Mod 1
