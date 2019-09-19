@@ -1,0 +1,13 @@
+Attributes:
+1. truckOpen (boolean)
+2. moneyMade (integer)
+3. moneySpent (integer)
+4. truckColor (string)
+5. yearsOpen (integer)
+6. dateEstablished (integer)
+
+Methods:
+1. isTruckOpen (yes = true)
+2. calculateProfit (moneyMade - moneySpent)
+3. defineColor (return truckColor)
+4. calculateYearsOpen (dateTime - dateEstablished)
