@@ -3,12 +3,12 @@ Class: Fast Food
 
 Attributes:
 1. dateEstablished (string)
-2. totalEmployees (integer)
+2. turnoverTotal (integer)
 3. profitMade (integer)
 4. nationalChain (boolean)
 
 Methods:
 1. calculateYearsOperating (subtracts dateEstablished from dateTime)
-2. calculateWorkforce (adds totalEmployees to 0)
+2. calculateTurnoverQuarter (subtracts currentEmployees from firstQuarterEmployees)
 3. calculateProfitMade (subtracts costsInvested from totalCurrency)
 4. isLocalOnly (no = true)
