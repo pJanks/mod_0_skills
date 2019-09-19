@@ -4,8 +4,10 @@ Attributes:
 1. truckOpen: false
 2. moneyMade: 500
 3. moneySpent: 300
-4. yearsOpen: 10
-5. dateEstablished: 09192019
+4. truckColor: "red"
+5. yearsOpen: 10
+6. dateEstablished: 09192019
+
 
 Methods:
 1. isTruckOpen: no = false
